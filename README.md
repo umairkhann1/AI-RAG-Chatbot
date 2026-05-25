@@ -1,4 +1,4 @@
-# langchain-chat
+﻿# langchain-chat
 
 langchain-chat is a powerful AI-driven Q&A system that leverages OpenAI's GPT-4 model to provide relevant and accurate
 answers to user queries. The system indexes documents from websites or PDF files using FAISS (Facebook AI Similarity
@@ -42,4 +42,4 @@ Search) and offers a convenient interface for interacting with the data.
 
 ## Example Images
 
-![Example 1](https://github.com/shamspias/langchain-chat/blob/main/images/conversation.PNG)
+[Example 1](https://github.com/shamspias/langchain-chat/blob/main/images/conversation.PNG)
