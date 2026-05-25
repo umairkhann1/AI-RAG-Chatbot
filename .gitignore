@@ -1,0 +1,9 @@
+venv
+/venv
+.idea
+.env
+__pycache__
+/models
+models
+/data
+output.txt
